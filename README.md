@@ -1,121 +1,92 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:00f2fe,100:0a0e1a&height=200&section=header&text=DGTECH%20Official&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Creator%20%7C%20Open%20Source&descAlignY=58&descSize=16&animation=fadeIn" alt="Header Banner" />
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:00d4ff,100:0a0e1a&height=250&section=header&text=DGTECH&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Tech%20Creator%20%7C%20Open%20Source&descAlignY=65&descSize=14&animation=scaleIn&font=Inter" alt="DGTECH Header" />
 </div>
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Sleek+User+Interfaces;Exploring+AI+%26+System+Architecture;Turning+Complex+Problems+Into+Elegant+Solutions" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Architecting+scalable+web+applications;Engineering+sleek+%26+intuitive+interfaces;Integrating+AI+into+production+systems;Transforming+complexity+into+elegance" alt="Typing Animation" />
+</div>
+<div align="center">
+  <a href="https://dgtech-official.infy.uk/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D4FF" alt="Portfolio" />
+  </a>
+  <a href="mailto:dgtech.official.biz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D4FF" alt="Email" />
+  </a>
+  <a href="https://github.com/dgtechofficial" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub" />
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=dgtechofficial&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 <br/>
+About
+<div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgtechofficial&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=C9D1D9&bg_color=0D1117&hide=shell,batchfile&langs_count=8" alt="Top Languages" width="360" />
+  <p>
+    Developer and tech creator focused on building impactful digital experiences.
+    I craft clean, scalable systems and design interfaces that feel intuitive.
+    Currently exploring the intersection of system architecture and intelligent automation.
+  </p>
+  <table>
+    <tr>
+      <td><code>Focus</code></td>
+      <td>Scalable web apps & open-source tooling</td>
+    </tr>
+    <tr>
+      <td><code>Learning</code></td>
+      <td>Distributed systems & AI integration patterns</td>
+    </tr>
+    <tr>
+      <td><code>Expertise</code></td>
+      <td>Web Development · UI/UX · Automation</td>
+    </tr>
+    <tr>
+      <td><code>Mode</code></td>
+      <td>Deep work sessions powered by caffeine</td>
+    </tr>
+  </table>
+</div>
 
-[![DGTECH OFFICIAL WEBSITE](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dgtech-official.infy.uk/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dgtech.official.biz@gmail.com)
-
+Tech Stack
+<div align="center">
+Languages & Frameworks
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://www.typescriptlang.org/
+https://developer.mozilla.org/en-US/docs/Web/HTML
+https://developer.mozilla.org/en-US/docs/Web/CSS
+https://react.dev/
+https://nextjs.org/
+https://vuejs.org/
+https://tailwindcss.com/
+Backend & Runtime
+https://nodejs.org/
+https://expressjs.com/
+https://www.php.net/
+https://restfulapi.net/
+Mobile & Systems
+https://kotlinlang.org/
+https://www.oracle.com/java/
+Data
+https://www.postgresql.org/
+https://mariadb.org/
+https://www.sqlite.org/
 <br/>
-
-[![PROFILE VIEWS](https://komarev.com/ghpvc/?username=dgtechofficial&color=00F2FE&style=flat-square&label=PROFILE+VIEWS)](https://github.com/dgtechofficial)
-
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,vue,nodejs,express,php,kotlin,java,postgres,mysql,sqlite&theme=dark&perline=8" alt="Skill Icons" />
 </div>
-
----
-
-## 👾 About Me
-
-I'm a passionate developer and tech creator focused on building impactful digital experiences. Whether it's crafting clean, scalable code, designing sleek user interfaces, or exploring cutting-edge technologies — I love turning complex problems into elegant solutions.
-
-| | |
-|:--|:--|
-| 🔭 **Currently** | Building scalable web applications and open-source tools |
-| 🌱 **Learning** | Advanced System Architecture and AI Integration |
-| 💬 **Ask me about** | Web Development · UI/UX Design · Automation |
-| ⚡ **Fun fact** | I code better when the sun goes down and the caffeine kicks in |
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-
-### ⚙️ Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=fastapi&logoColor=white)
-
-### 📱 Mobile & Systems
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
+GitHub Activity
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dgtechofficial&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideLabels=c9d1d9&dates=c9d1d9" height="165px" alt="GitHub Streak" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dgtechofficial&theme=transparent&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9" height="180" alt="GitHub Streak" />
+<br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=dgtechofficial&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dgtechofficial&bg_color=0D1117&color=C9D1D9&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </div>
-
-<div align="center" style="margin-top: 10px;">
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
+Connect
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dgtechofficial&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-
+https://dgtech-official.infy.uk/
+mailto:dgtech.official.biz@gmail.com
 </div>
-
----
-
-## 📈 Contribution Graph
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dgtechofficial&bg_color=0d1117&color=00f2fe&line=00f2fe&point=ffffff&area=true&area_color=00f2fe&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![DGTECH OFFICIAL WEBSITE](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dgtech-official.infy.uk/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dgtech.official.biz@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:00f2fe,100:0a0e1a&height=100&section=footer" alt="Footer Banner" />
-
-<sub>Built with ☕ and late nights · Always shipping · Open to collabs</sub>
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:00d4ff,100:0a0e1a&height=120&section=footer" alt="Footer" />
+  <br/>
+  <sub><code>Built with focus and late nights · Always shipping · Open to collaborations</code></sub>
 </div>
