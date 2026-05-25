@@ -1,397 +1,125 @@
+<div align="center">
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;700;800&display=swap');
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:00f2fe,100:0a0e1a&height=200&section=header&text=DGTECH%20Official&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Creator%20%7C%20Open%20Source&descAlignY=58&descSize=16&animation=fadeIn" />
 
-  * { box-sizing: border-box; margin: 0; padding: 0; }
+</div>
 
-  .profile-root {
-    font-family: 'Syne', sans-serif;
-    background: #0a0e1a;
-    color: #e2e8f0;
-    padding: 2rem 1.5rem;
-    min-height: 100vh;
-    position: relative;
-    overflow: hidden;
-  }
+<div align="center">
 
-  .grid-bg {
-    position: fixed; inset: 0; pointer-events: none; z-index: 0;
-    background-image:
-      linear-gradient(rgba(0,242,254,0.04) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(0,242,254,0.04) 1px, transparent 1px);
-    background-size: 40px 40px;
-  }
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Sleek+User+Interfaces;Exploring+AI+%26+System+Architecture;Turning+Complex+Problems+Into+Elegant+Solutions" alt="Typing SVG" />
 
-  .content { position: relative; z-index: 1; max-width: 680px; margin: 0 auto; }
+<br/>
 
-  .header { text-align: center; padding: 1.5rem 0 2rem; }
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-username)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=dgtechofficial&color=00F2FE&style=flat-square&label=PROFILE+VIEWS)](https://github.com/dgtechofficial)
 
-  .avatar-ring {
-    width: 90px; height: 90px; border-radius: 50%;
-    border: 2px solid #00f2fe;
-    display: flex; align-items: center; justify-content: center;
-    margin: 0 auto 1rem;
-    position: relative;
-    background: linear-gradient(135deg, #0a0e1a, #111827);
-    box-shadow: 0 0 0 4px rgba(0,242,254,0.08), inset 0 0 20px rgba(0,242,254,0.05);
-  }
+</div>
 
-  .avatar-inner {
-    font-family: 'Space Mono', monospace;
-    font-size: 22px; font-weight: 700;
-    color: #00f2fe;
-    letter-spacing: -1px;
-  }
+---
 
-  .status-dot {
-    position: absolute; bottom: 4px; right: 4px;
-    width: 14px; height: 14px; border-radius: 50%;
-    background: #22c55e;
-    border: 2px solid #0a0e1a;
-    animation: pulse-dot 2s infinite;
-  }
+## 👾 About Me
 
-  @keyframes pulse-dot {
-    0%, 100% { box-shadow: 0 0 0 0 rgba(34,197,94,0.4); }
-    50% { box-shadow: 0 0 0 6px rgba(34,197,94,0); }
-  }
+I'm a passionate developer and tech creator focused on building impactful digital experiences. Whether it's crafting clean, scalable code, designing sleek user interfaces, or exploring cutting-edge technologies — I love turning complex problems into elegant solutions.
 
-  .name {
-    font-size: 28px; font-weight: 800;
-    color: #ffffff;
-    letter-spacing: -0.5px;
-    margin-bottom: 4px;
-  }
+| | |
+|:--|:--|
+| 🔭 **Currently** | Building scalable web applications and open-source tools |
+| 🌱 **Learning** | Advanced System Architecture and AI Integration |
+| 💬 **Ask me about** | Web Development · UI/UX Design · Automation |
+| ⚡ **Fun fact** | I code better when the sun goes down and the caffeine kicks in |
 
-  .handle {
-    font-family: 'Space Mono', monospace;
-    font-size: 13px; color: #00f2fe;
-    margin-bottom: 12px;
-  }
+---
 
-  .tagline {
-    font-size: 14px; color: #94a3b8;
-    max-width: 360px; margin: 0 auto 1.25rem;
-    line-height: 1.6;
-  }
+## 🛠️ Tech Stack
 
-  .badge-row {
-    display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;
-    margin-bottom: 1.25rem;
-  }
+### 🌐 Frontend
 
-  .badge {
-    font-family: 'Space Mono', monospace;
-    font-size: 11px; padding: 4px 10px;
-    border-radius: 100px;
-    border: 1px solid;
-    letter-spacing: 0.3px;
-  }
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-  .badge-cyan { border-color: rgba(0,242,254,0.4); color: #00f2fe; background: rgba(0,242,254,0.07); }
-  .badge-green { border-color: rgba(34,197,94,0.4); color: #22c55e; background: rgba(34,197,94,0.07); }
-  .badge-purple { border-color: rgba(139,92,246,0.4); color: #a78bfa; background: rgba(139,92,246,0.07); }
+### ⚙️ Backend & APIs
 
-  .section { margin-bottom: 1.75rem; }
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=fastapi&logoColor=white)
 
-  .section-label {
-    font-family: 'Space Mono', monospace;
-    font-size: 11px; color: #00f2fe;
-    letter-spacing: 2px; text-transform: uppercase;
-    margin-bottom: 1rem;
-    display: flex; align-items: center; gap: 8px;
-  }
+### 📱 Mobile & Systems
 
-  .section-label::after {
-    content: '';
-    flex: 1; height: 1px;
-    background: linear-gradient(to right, rgba(0,242,254,0.2), transparent);
-  }
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-  .about-grid {
-    display: grid; grid-template-columns: 1fr 1fr;
-    gap: 8px;
-  }
+### 🗄️ Databases
 
-  .about-item {
-    background: rgba(255,255,255,0.03);
-    border: 1px solid rgba(255,255,255,0.07);
-    border-radius: 10px;
-    padding: 12px 14px;
-    display: flex; align-items: flex-start; gap: 10px;
-  }
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-  .about-icon { font-size: 16px; margin-top: 1px; flex-shrink: 0; }
-  .about-label { font-size: 11px; color: #64748b; margin-bottom: 2px; font-family: 'Space Mono', monospace; }
-  .about-value { font-size: 13px; color: #cbd5e1; line-height: 1.4; }
+---
 
-  .stack-section { }
+## 📊 GitHub Stats
 
-  .stack-category { margin-bottom: 1rem; }
-  .stack-cat-label {
-    font-size: 12px; color: #64748b;
-    font-family: 'Space Mono', monospace;
-    margin-bottom: 8px;
-  }
+<div align="center">
 
-  .pill-group { display: flex; flex-wrap: wrap; gap: 6px; }
+<img src="https://github-readme-stats.vercel.app/api?username=dgtechofficial&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9" height="165px" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dgtechofficial&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideLabels=c9d1d9&dates=c9d1d9" height="165px" alt="GitHub Streak" />
 
-  .pill {
-    font-family: 'Space Mono', monospace;
-    font-size: 11px; padding: 5px 11px;
-    border-radius: 6px;
-    border: 1px solid rgba(255,255,255,0.1);
-    background: rgba(255,255,255,0.04);
-    color: #94a3b8;
-    transition: all 0.15s ease;
-    cursor: default;
-    display: flex; align-items: center; gap: 5px;
-  }
+</div>
 
-  .pill:hover {
-    border-color: rgba(0,242,254,0.35);
-    color: #e2e8f0;
-    background: rgba(0,242,254,0.07);
-  }
+<div align="center">
 
-  .pill-dot { width: 5px; height: 5px; border-radius: 50%; flex-shrink: 0; }
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgtechofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" height="130px" alt="Top Languages" />
 
-  .stats-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+</div>
 
-  .stat-card {
-    background: rgba(255,255,255,0.03);
-    border: 1px solid rgba(255,255,255,0.07);
-    border-radius: 10px;
-    padding: 14px 12px;
-    text-align: center;
-  }
+---
 
-  .stat-number {
-    font-family: 'Space Mono', monospace;
-    font-size: 22px; font-weight: 700;
-    color: #00f2fe;
-    margin-bottom: 2px;
-  }
+## 🏆 GitHub Trophies
 
-  .stat-label { font-size: 11px; color: #64748b; }
+<div align="center">
 
-  .links-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+<img src="https://github-profile-trophy.vercel.app/?username=dgtechofficial&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
-  .link-card {
-    background: rgba(255,255,255,0.03);
-    border: 1px solid rgba(255,255,255,0.07);
-    border-radius: 10px;
-    padding: 12px 14px;
-    display: flex; align-items: center; gap: 10px;
-    text-decoration: none;
-    color: inherit;
-    transition: all 0.15s ease;
-    cursor: pointer;
-  }
+</div>
 
-  .link-card:hover {
-    border-color: rgba(0,242,254,0.35);
-    background: rgba(0,242,254,0.05);
-  }
+---
 
-  .link-icon { font-size: 18px; flex-shrink: 0; }
-  .link-platform { font-size: 11px; color: #64748b; font-family: 'Space Mono', monospace; }
-  .link-handle { font-size: 13px; color: #cbd5e1; }
+## 📈 Contribution Graph
 
-  .footer {
-    text-align: center;
-    padding-top: 1.5rem;
-    font-family: 'Space Mono', monospace;
-    font-size: 11px;
-    color: #334155;
-    border-top: 1px solid rgba(255,255,255,0.05);
-  }
+<div align="center">
 
-  .views-badge {
-    display: inline-flex; align-items: center; gap: 6px;
-    background: rgba(0,242,254,0.07);
-    border: 1px solid rgba(0,242,254,0.2);
-    border-radius: 100px;
-    padding: 5px 12px;
-    font-family: 'Space Mono', monospace;
-    font-size: 11px; color: #00f2fe;
-    margin-bottom: 1rem;
-  }
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dgtechofficial&bg_color=0d1117&color=00f2fe&line=00f2fe&point=ffffff&area=true&area_color=00f2fe&hide_border=true" alt="Contribution Graph" />
 
-  .views-dot { width: 6px; height: 6px; border-radius: 50%; background: #00f2fe; animation: pulse-dot 2s infinite; }
+</div>
 
-  .cursor-blink {
-    display: inline-block;
-    width: 2px; height: 1em;
-    background: #00f2fe;
-    animation: blink 1s step-end infinite;
-    vertical-align: text-bottom;
-    margin-left: 2px;
-  }
+---
 
-  @keyframes blink { 50% { opacity: 0; } }
-</style>
+## 🌐 Connect With Me
 
-<div class="profile-root">
-  <div class="grid-bg"></div>
-  <div class="content">
+<div align="center">
 
-    <div class="header">
-      <div class="views-badge"><span class="views-dot"></span>open to work</div>
-      <div class="avatar-ring">
-        <span class="avatar-inner">DG</span>
-        <span class="status-dot"></span>
-      </div>
-      <div class="name">DGTECH Official<span class="cursor-blink"></span></div>
-      <div class="handle">@dgtechofficial</div>
-      <div class="tagline">Building impactful digital experiences — clean code, sleek interfaces, cutting-edge tech.</div>
-      <div class="badge-row">
-        <span class="badge badge-cyan">Full Stack Dev</span>
-        <span class="badge badge-green">Open Source</span>
-        <span class="badge badge-purple">AI Integration</span>
-      </div>
-    </div>
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-    <div class="section">
-      <div class="section-label">About</div>
-      <div class="about-grid">
-        <div class="about-item">
-          <span class="about-icon">🔭</span>
-          <div>
-            <div class="about-label">Currently</div>
-            <div class="about-value">Scalable web apps & open-source tools</div>
-          </div>
-        </div>
-        <div class="about-item">
-          <span class="about-icon">🌱</span>
-          <div>
-            <div class="about-label">Learning</div>
-            <div class="about-value">Advanced System Architecture & AI Integration</div>
-          </div>
-        </div>
-        <div class="about-item">
-          <span class="about-icon">💬</span>
-          <div>
-            <div class="about-label">Ask me about</div>
-            <div class="about-value">Web Dev, UI/UX, Automation</div>
-          </div>
-        </div>
-        <div class="about-item">
-          <span class="about-icon">⚡</span>
-          <div>
-            <div class="about-label">Fun fact</div>
-            <div class="about-value">Codes best when the sun sets & caffeine kicks in</div>
-          </div>
-        </div>
-      </div>
-    </div>
+</div>
 
-    <div class="section">
-      <div class="section-label">Tech Stack</div>
-      <div class="stack-section">
+---
 
-        <div class="stack-category">
-          <div class="stack-cat-label">Frontend</div>
-          <div class="pill-group">
-            <span class="pill"><span class="pill-dot" style="background:#f7df1e"></span>JavaScript</span>
-            <span class="pill"><span class="pill-dot" style="background:#e34f26"></span>HTML5</span>
-            <span class="pill"><span class="pill-dot" style="background:#1572b6"></span>CSS3</span>
-            <span class="pill"><span class="pill-dot" style="background:#38b2ac"></span>Tailwind</span>
-            <span class="pill"><span class="pill-dot" style="background:#61dafb"></span>React</span>
-            <span class="pill"><span class="pill-dot" style="background:#ffffff"></span>Next.js</span>
-            <span class="pill"><span class="pill-dot" style="background:#4fc08d"></span>Vue.js</span>
-            <span class="pill"><span class="pill-dot" style="background:#0769ad"></span>jQuery</span>
-          </div>
-        </div>
+<div align="center">
 
-        <div class="stack-category" style="margin-top:12px">
-          <div class="stack-cat-label">Backend & APIs</div>
-          <div class="pill-group">
-            <span class="pill"><span class="pill-dot" style="background:#6da55f"></span>Node.js</span>
-            <span class="pill"><span class="pill-dot" style="background:#404d59"></span>Express.js</span>
-            <span class="pill"><span class="pill-dot" style="background:#777bb4"></span>PHP</span>
-            <span class="pill"><span class="pill-dot" style="background:#0052cc"></span>REST APIs</span>
-          </div>
-        </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:00f2fe,100:0a0e1a&height=100&section=footer" />
 
-        <div class="stack-category" style="margin-top:12px">
-          <div class="stack-cat-label">Mobile & Systems</div>
-          <div class="pill-group">
-            <span class="pill"><span class="pill-dot" style="background:#7f52ff"></span>Kotlin</span>
-            <span class="pill"><span class="pill-dot" style="background:#ed8b00"></span>Java</span>
-          </div>
-        </div>
+<sub>Built with ☕ and late nights · Always shipping · Open to collabs</sub>
 
-        <div class="stack-category" style="margin-top:12px">
-          <div class="stack-cat-label">Databases</div>
-          <div class="pill-group">
-            <span class="pill"><span class="pill-dot" style="background:#316192"></span>PostgreSQL</span>
-            <span class="pill"><span class="pill-dot" style="background:#003545"></span>MariaDB</span>
-            <span class="pill"><span class="pill-dot" style="background:#07405e"></span>SQLite</span>
-          </div>
-        </div>
-
-      </div>
-    </div>
-
-    <div class="section">
-      <div class="section-label">GitHub Stats</div>
-      <div class="stats-grid">
-        <div class="stat-card">
-          <div class="stat-number">∞</div>
-          <div class="stat-label">commits</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-number">⬆️</div>
-          <div class="stat-label">streak</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-number">JS</div>
-          <div class="stat-label">top language</div>
-        </div>
-      </div>
-      <p style="font-family:'Space Mono',monospace;font-size:11px;color:#475569;text-align:center;margin-top:10px;">
-        → Pin real stats via github-readme-stats in your actual README
-      </p>
-    </div>
-
-    <div class="section">
-      <div class="section-label">Connect</div>
-      <div class="links-grid">
-        <div class="link-card">
-          <i class="ti ti-world link-icon" style="color:#00f2fe" aria-hidden="true"></i>
-          <div>
-            <div class="link-platform">Website</div>
-            <div class="link-handle">your-website.com</div>
-          </div>
-        </div>
-        <div class="link-card">
-          <i class="ti ti-brand-linkedin link-icon" style="color:#0077b5" aria-hidden="true"></i>
-          <div>
-            <div class="link-platform">LinkedIn</div>
-            <div class="link-handle">your-username</div>
-          </div>
-        </div>
-        <div class="link-card">
-          <i class="ti ti-brand-twitter link-icon" style="color:#1da1f2" aria-hidden="true"></i>
-          <div>
-            <div class="link-platform">Twitter / X</div>
-            <div class="link-handle">your-username</div>
-          </div>
-        </div>
-        <div class="link-card">
-          <i class="ti ti-mail link-icon" style="color:#ea4335" aria-hidden="true"></i>
-          <div>
-            <div class="link-platform">Email</div>
-            <div class="link-handle">your-email@example.com</div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="footer">
-      <div>profile views tracked via komarev.com/ghpvc</div>
-    </div>
-
-  </div>
 </div>
