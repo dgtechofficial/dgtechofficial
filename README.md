@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:060a14,40:003554,70:00d4ff,100:060a14&height=260&section=header&text=DGTECH%20Official&fontSize=62&fontColor=ffffff&fontAlignY=42&fontAlignX=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20Tech%20Creator%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=63&descSize=15&descColor=a8d8ea&animation=scaleIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:060a14,40:003554,70:00d4ff,100:060a14&height=260&section=header&text=DGTECH%20Official&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Tech%20Creator%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=63&descSize=15&descColor=a8d8ea&animation=scaleIn" alt="Header" />
 </div>
 
 <div align="center">
@@ -10,13 +10,13 @@
 
 <div align="center">
   <a href="https://dgtech-official.infy.uk/" target="_blank">
-    <img src="https://img.shields.io/badge/◈%20Portfolio-060a14?style=for-the-badge&logoColor=00D4FF&color=060a14&labelColor=060a14&logo=vercel" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/◈%20Portfolio-060a14?style=for-the-badge&logo=vercel&logoColor=00D4FF" alt="Portfolio" />
   </a>
   <a href="mailto:dgtech.official.biz@gmail.com">
-    <img src="https://img.shields.io/badge/◈%20Email-060a14?style=for-the-badge&logo=gmail&logoColor=00D4FF&color=060a14&labelColor=060a14" alt="Email" />
+    <img src="https://img.shields.io/badge/◈%20Email-060a14?style=for-the-badge&logo=gmail&logoColor=00D4FF" alt="Email" />
   </a>
   <a href="https://github.com/dgtechofficial" target="_blank">
-    <img src="https://img.shields.io/badge/◈%20GitHub-060a14?style=for-the-badge&logo=github&logoColor=00D4FF&color=060a14&labelColor=060a14" alt="GitHub" />
+    <img src="https://img.shields.io/badge/◈%20GitHub-060a14?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub" />
   </a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=dgtechofficial&color=00D4FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -28,7 +28,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgtechofficial&layout=compact&hide_border=true&title_color=00D4FF&text_color=C9D1D9&bg_color=0D1117&hide=shell,batchfile&langs_count=8&card_width=340" alt="Top Languages" width="340" />
+<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dgtechofficial&layout=compact&hide_border=true&title_color=00D4FF&text_color=C9D1D9&bg_color=0D1117&hide=shell,batchfile&langs_count=8&card_width=330" alt="Top Languages" width="330" />
 
 ### `> whoami`
 
@@ -79,9 +79,11 @@ Developer and tech creator focused on building impactful digital experiences. I 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dgtechofficial&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=C9D1D9&stroke=00D4FF20" height="175" alt="GitHub Streak" />
+<!-- Stats card via github-stats-extended (reliable alternative instance) -->
+<img src="https://github-stats-extended.vercel.app/api?username=dgtechofficial&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=00D4FF" height="170" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=dgtechofficial&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=00D4FF" height="175" alt="GitHub Stats" />
+<!-- Streak via github-readme-streak-stats-eight (reliable mirror) -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=dgtechofficial&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=C9D1D9" height="170" alt="GitHub Streak" />
 
 </div>
 
