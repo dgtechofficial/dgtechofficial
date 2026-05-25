@@ -1,80 +1,62 @@
-# Hey there! I'm DGTECH Official 👋 🚀
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=435&lines=Innovating+the+Future;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</p>
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;AI+%26+Systems+Explorer;Open+Source+Enthusiast" alt="Typing SVG" />
 
----
+# DGTECH Official
 
-### 🌌 About Me
-I am a passionate developer and tech creator focused on building impactful digital experiences. Whether it's crafting clean code, designing sleek user interfaces, or exploring cutting-edge technologies, I love turning complex problems into elegant solutions.
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=DGTECH-Official&color=00F2FE&style=flat-square&label=VIEWS)](https://github.com/dgtechofficial)
 
-- 🔭 **Current Focus:** Building scalable web applications and open-source tools.
-- 🌱 **Learning:** Deep diving into Advanced System Architecture and AI Integration.
-- 💬 **Ask me about:** Web Development, UI/UX, and Automation.
-- ⚡ **Fun Fact:** I code better when the sun goes down and the caffeine kicks in.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 🌐 Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-#### ⚙️ Backend & APIs
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%230052CC.svg?style=for-the-badge&logo=api&logoColor=white)
-
-#### 📱 Mobile & Systems
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 👾 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dgtechofficial&show_icons=true&theme=tokyonight&count_private=true" alt="DGTECH's GitHub stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dgtechofficial&theme=tokyonight" alt="GitHub Streak" height="180px" />
-</p>
+Passionate developer and tech creator focused on building impactful digital experiences. I turn complex problems into elegant solutions — whether it's architecting scalable backends, crafting polished UIs, or integrating AI into real products.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgtechofficial&layout=compact&theme=tokyonight" alt="Top Langs" height="140px" />
-</p>
+| | |
+|---|---|
+| 🔭 **Focus** | Scalable web applications & open-source tools |
+| 🌱 **Learning** | Advanced System Architecture & AI Integration |
+| 💬 **Ask me** | Web Development · UI/UX · Automation |
+| ⚡ **Fun fact** | I code best when the sun sets and caffeine kicks in |
 
 ---
 
-### 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+**Frontend**
+`JavaScript` `HTML5` `CSS3` `TailwindCSS` `React` `Next.js` `Vue.js` `jQuery`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DGTECH-Official&color=00F2FE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+**Backend & APIs**
+`Node.js` `Express.js` `PHP` `REST API`
+
+**Mobile & Systems**
+`Kotlin` `Java`
+
+**Databases**
+`PostgreSQL` `MariaDB` `SQLite`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dgtechofficial&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0a0e1a&title_color=00F2FE&icon_color=00F2FE" height="170px" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dgtechofficial&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" height="170px" alt="Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgtechofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00F2FE" alt="Top Langs" height="130px" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ☕ and late nights · Open to collabs · Always shipping</sub>
+</div>
