@@ -53,7 +53,7 @@ I am a passionate developer and tech creator focused on building impactful digit
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGTECH-Official&layout=compact&theme=tokyonight" alt="Top Langs" height="140px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgtechofficial&layout=compact&theme=tokyonight" alt="Top Langs" height="140px" />
 </p>
 
 ---
