@@ -9,6 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Sleek+User+Interfaces;Exploring+AI+%26+System+Architecture;Turning+Complex+Problems+Into+Elegant+Solutions" alt="Typing SVG" />
 
 <br/>
+
 [![DGTECH OFFICIAL WEBSITE](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dgtech-official.infy.uk/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dgtech.official.biz@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=dgtechofficial&color=00F2FE&style=flat-square&label=PROFILE+VIEWS)](https://github.com/dgtechofficial)
