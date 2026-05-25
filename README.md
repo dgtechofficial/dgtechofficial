@@ -9,11 +9,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Sleek+User+Interfaces;Exploring+AI+%26+System+Architecture;Turning+Complex+Problems+Into+Elegant+Solutions" alt="Typing SVG" />
 
 <br/>
-
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://your-website.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![DGTECH OFFICIAL WEBSITE](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dgtech-official.infy.uk/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dgtech.official.biz@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=dgtechofficial&color=00F2FE&style=flat-square&label=PROFILE+VIEWS)](https://github.com/dgtechofficial)
 
 </div>
