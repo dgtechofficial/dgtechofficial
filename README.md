@@ -48,8 +48,8 @@ I am a passionate developer and tech creator focused on building impactful digit
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DGTECH-Official&show_icons=true&theme=tokyonight&count_private=true" alt="DGTECH's GitHub stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DGTECH-Official&theme=tokyonight" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dgtechofficial&show_icons=true&theme=tokyonight&count_private=true" alt="DGTECH's GitHub stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dgtechofficial&theme=tokyonight" alt="GitHub Streak" height="180px" />
 </p>
 
 <p align="center">
